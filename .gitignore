@@ -1,0 +1,14 @@
+# dữ liệu lịch sử, tải lại bằng: python3 research.py --fetch
+alpha.db
+alpha.db-shm
+alpha.db-wal
+
+*.log
+*.csv
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store
